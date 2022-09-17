@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="text_home">home</string>
+    <string name="text_details">details</string>
+</resources>
